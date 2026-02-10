@@ -18,13 +18,6 @@ My personal site with self-hosting guides, homelab tutorials, and technical writ
 - Custom domain email with Cloudflare + SMTP2Go
 - OpenClaw on Proxmox series
 
-### Shelfmark Multi-User + OIDC
-
-Contributed PR #606 to [Shelfmark](https://github.com/calibrain/shelfmark) adding OIDC authentication and full multi-user support:
-- Per-user download destinations and BookLore libraries
-- Pocket ID/Authentik/Authelia integration
-- Admin and regular user roles with filtered views
-
 ### Accountability AI Assistant
 
 An AI tool using behavior modification techniques from psychology to help build habits. Psychology research meets code.
