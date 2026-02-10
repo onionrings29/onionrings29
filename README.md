@@ -9,13 +9,25 @@ CS + Psychology student at the University of Alberta. I build things, break thin
 
 ## What I'm Working On
 
-### Recent Projects
+### [saulutions.ca](https://saulutions.ca)
 
-**[saulutions.ca](https://saulutions.ca)** — My personal site with self-hosting guides, homelab tutorials, and technical writing.
+My personal site with self-hosting guides, homelab tutorials, and technical writing. Built with Astro, hosted on my own Proxmox infrastructure.
 
-**[Shelfmark PR #606](https://github.com/calibrain/shelfmark/pull/606)** — Added OIDC authentication and multi-user support (per-user settings, download folders, email recipients).
+**Recent posts:**
+- Jellyseerr OIDC with Pocket ID
+- Custom domain email with Cloudflare + SMTP2Go
+- OpenClaw on Proxmox series
 
-**Accountability AI Assistant** — An AI tool that uses behavior modification techniques from psychology to help build habits. Psychology research meets code.
+### Shelfmark Multi-User + OIDC
+
+Contributed PR #606 to [Shelfmark](https://github.com/calibrain/shelfmark) adding OIDC authentication and full multi-user support:
+- Per-user download destinations and BookLore libraries
+- Pocket ID/Authentik/Authelia integration
+- Admin and regular user roles with filtered views
+
+### Accountability AI Assistant
+
+An AI tool using behavior modification techniques from psychology to help build habits. Psychology research meets code.
 
 ## Tech Stack
 
