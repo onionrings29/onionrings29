@@ -58,4 +58,4 @@ Currently diving into:
 
 - 📧 [michael@saulutions.ca](mailto:michael@saulutions.ca)
 - 🐙 [@onionrings29](https://github.com/onionrings29)
-- 🌐 [saulutions.ca](https://saulolutions.ca)
+- 🌐 [saulutions.ca](https://saulutions.ca)
